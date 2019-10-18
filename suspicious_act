@@ -1,0 +1,18 @@
+<?xml>
+           $CMD1 = "powershell" nocase 
+           $CMD2 = "ren" nocase 
+           $CMD3 = "dir" nocase 
+           $CMD4 = "find" nocase
+           $CMD5 = "netstat" nocase
+
+             
+           $GET = "get" nocase 
+           $PUT = "put" nocase
+
+
+            
+           $Outbound = "http"nocase 
+      
+    
+           $Mecro = "vba"nocase 
+           $Function = "function"nocase 
